@@ -46,3 +46,12 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+
+Steps to Initialize and deploy
+=======
+
+1. astro dev init
+
+2. astro dev start
+
+3. additional commands to deplo changes - astro dev restart
